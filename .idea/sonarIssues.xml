@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GitHub/Interview-Prep/Graph_Algorithm/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GitHub/System_Design/URLFeederService/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../GitHub/System_Design/URLFeederService/src/main/java/com/project/URLFeederService/model/URLEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/EvenAndOddThreads.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/GetSubSequence.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/GroupOfAnagarms.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/GroupOfAnagrams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/LargestRectangleInHistogram.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/MakePalindromeFromString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/MaxSumSubArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/MedianOf2SortedArrays.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/MinimumDeletions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/Plus1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/ProductArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/RRemovingKDigits.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/RemovingKDigits.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/SubArrayWithGivenSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Array/TestThreads.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearchIn1DArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearchIn2DArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinarySearch/BitonicArrayMax.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinarySearch/FirstAndLastPosition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinarySearch/SearchInRotatedArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTree/BTNode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTree/BinaryTreeImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTree/CreateBST.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTree/CreateBSTFromBT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTree/DiagonalSumOfBT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTree/FindUniqueBST.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTree/KthLargestInBST.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTree/LevelOrderTraversal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTree/LowestCommonAncestor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTree/MinDepthOfBT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTree/RecoverBinaryTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BinaryTreeImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Dynamic/GetNthFibonacci.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Heap/ConflictingMeetings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Heap/FindMedianInAStream.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Heap/ImplementHeap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Heap/KClosestPointsToOrigin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Heap/KthLargestElementInStream.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Heap/MergeKArrays.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Heap/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/LinkedList/LinkedListImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/LinkedList/LoopInList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/LinkedList/MergeKList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Polymorphism/Casting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Polymorphism/PolymorphismChallenge1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Polymorphism/Rules.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/SlidingWindow/CountAnagramOccurances.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/SlidingWindow/CountAnagrams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/SlidingWindow/MaxInEverySubArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/SlidingWindow/MaxOfAllSubArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/SlidingWindow/MaxSumSubarrayKSize.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/SlidingWindow/MinSizeSubarraySum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/SlidingWindow/NegativeNumberInEveryWindow.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Sorting/CountPossibleTriangles.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Sorting/MedianOfSortedArrays.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Sorting/MergeKSortedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Sorting/QuickSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Sorting/SecondLargestElementArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Sorting/SortKSortedArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Stack/LRUCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Stack/LRUCacheImplemetation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Stack/LargestRectangleInHistogram.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Stack/MinStackWithoutAuxStack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElement.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Stack/Test2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/String/Permutation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TechiDelight/LargestSubArrayWithEqual0sAnd1s.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TechiDelight/SubArrayWithGivenSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TwoPointers/ClosestPairSortedArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TwoPointers/CountPossibleTriangles.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TwoPointers/ThreeSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TwoPointers/TripletSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TwoPointers/TripletSumClosestToTarget.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TwoPointers/TripletsWithZeroSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/TwoPointers/TwoSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dc-apc/IT/01-configs/content-service-offline.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dc-apc/IT/01-configs/content-service.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CitizenService/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CitizenService/src/main/java/com/example/CitizenService/config/ConfigurationProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CitizenService/src/main/java/com/example/CitizenService/config/CouchbaseConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CitizenService/src/main/java/com/example/CitizenService/config/CouchbaseConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CitizenService/src/main/java/com/example/CitizenService/config/CouchbaseProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CitizenService/src/main/java/com/example/CitizenService/config/ReactiveCouchbaseConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CitizenService/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CitizenService/src/main/resources/couchbase.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/EdurekaServer/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/EdurekaServer/src/main/java/com/example/EdurekaServer/EdurekaServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/EdurekaServer/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/URLFeederService/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/URLFeederService/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/URLFeederService/src/main/java/com/project/URLFeederService/controller/URLResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/URLFeederService/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/AdminGateway/src/main/java/com/apple/pst/dc/admin/gateway/client/ContentServiceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/AdminGateway/src/main/java/com/apple/pst/dc/admin/gateway/controller/AdminGatewayController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/AdminGateway/src/main/java/com/apple/pst/dc/admin/gateway/filter/AuthenticationFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/AdminGateway/src/main/java/com/apple/pst/dc/admin/gateway/handler/AdminGatewayHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/AdminGateway/src/main/java/com/apple/pst/dc/admin/gateway/service/AdminGatewayServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/AdminGateway/src/main/resources/application-qa.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/AdminGateway/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/CatalogService/src/main/java/com/apple/pst/dc/service/impl/CatalogServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/checksum_migration.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/ContentApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/client/S3Client.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/client/StoreServiceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/config/CouchbaseConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/constant/Constant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/constant/cms/CMSErrorConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/ChecksumMigration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/ChecksumResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/GatewayController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/Migration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/Migration/ChecksumMigration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/Migration/ElasticSearchMigration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/Migration/S3Migration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/Migration/S3migration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/MigrationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/Migrations/AWSMigration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/Migrations/CustomChecksumObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/Migrations/MigrationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/Migrations/S3Migration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/Phase2Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/S3Migration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/S3MigrationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/S3migration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/TestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/migration/ElasticSearchMigration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/migration/ElaticSearchMigration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/migration/S3Migration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/migration/checksum_migration.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/controller/migration3/2/S3Migration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/handler/impl/GatewayHandlerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/model/couchbase/FileMetadata.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/model/elasticsearch/BundleMetadataMapping.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/model/elasticsearch/BundleMetadataSearch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/repository/ContentBundleMetadataSearchRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/response/ContentSearchResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/ContentBundleMetadataMappingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/GatewayService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/JWTService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/impl/AWSKeyServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/impl/ApproveContentServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/impl/BundleMetadataServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/impl/CMSServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/impl/ContentBundleMetadataMappingImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/impl/ContentBundleMetadataRepositoryImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/impl/FileChecksumServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/impl/GatewayServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/service/impl/JWTServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/util/ContentUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/util/FileUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/util/JwtTokenUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/util/ServiceEndpoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/java/com/apple/pst/dc/content/util/StringUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/resources/application-cloud-qa.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/resources/application-local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/resources/application-qa.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/resources/application-uat.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/test/java/com/apple/pst/dc/content/handler/GatewayHandlerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/test/java/com/apple/pst/dc/content/service/BundleMetadataServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/ContentService/src/test/java/com/apple/pst/dc/content/service/CMSServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/ColourfulNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/DiffII.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/FindSubarrayWith1sAnd0s.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/FindSubarrayWithEqual1sAnd0s.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/FouSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/FourSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashSearch/ColourfulNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashSearch/CountSubArraySumEqualsK.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashSearch/DiffII.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashSearch/FourSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashSearch/LongestSubArrayWith0Sum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashSearch/TripletSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashSearch/TwoSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashSearch/ValidSudoku.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashingTwoPointer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashingTwoPointer/LongestSubstringWithoutRepeat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashingTwoPointer/MinimumWindowSubstring.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashingTwoPointer/PrefixSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashingTwoPointer/PrefixSum/HashSearch/CountSubArraySumEqualsK.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashingTwoPointer/PrefixSum/HashSearch/DiffII.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashingTwoPointer/PrefixSum/HashSearch/LongestSubArrayWith0Sum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/HashingTwoPointer/SubArrayWithBOddNum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/Incremental_Hashing/StringConcatenation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/LongestSubArrayWith0Sum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/PrefixSum/SubArrayWithBOddNum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/PrefixSum/SubArrayWithGivenXOR.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/TripletSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/TwoSum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Hashing/ValidSudoku.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Heaps/HeapImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Incremental_Hashing/StringConcatenation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Incremental_Hashing/SubArayWithGivenXO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Incremental_Hashing/SubArrayWithGivenXOR.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/InterviewBit/src/main/java/Incremental_Hashing/TwoOutOfThree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/PreviewGateway/src/main/java/com/apple/pst/dc/preview/gateway/client/ContentServiceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/PreviewGateway/src/main/java/com/apple/pst/dc/preview/gateway/constant/PreviewGatewayConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/PreviewGateway/src/main/java/com/apple/pst/dc/preview/gateway/controller/PreviewGatewayController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/PreviewGateway/src/main/java/com/apple/pst/dc/preview/gateway/filter/AuthFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/PreviewGateway/src/main/java/com/apple/pst/dc/preview/gateway/handler/PreviewGatewayHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/PreviewGateway/src/main/java/com/apple/pst/dc/preview/gateway/model/BundleMetadataMapping.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/PreviewGateway/src/main/java/com/apple/pst/dc/preview/gateway/service/PreviewGatewayService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/PreviewGateway/src/main/java/com/apple/pst/dc/preview/gateway/service/PreviewGatewayServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/content_workspace/PreviewGateway/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
