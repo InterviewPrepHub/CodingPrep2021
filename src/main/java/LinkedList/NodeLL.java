@@ -2,15 +2,15 @@ package LinkedList;
 
 public class NodeLL {
 
-    int data;
-    NodeLL next;
+    public int data;
+    public NodeLL next;
 
     public NodeLL(int data) {
         this.data = data;
         this.next = null;
     }
 
-    public int getData() {
+    /*public int getData() {
         return data;
     }
 
@@ -24,5 +24,5 @@ public class NodeLL {
 
     public void setNext(NodeLL next) {
         this.next = next;
-    }
+    }*/
 }

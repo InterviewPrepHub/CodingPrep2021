@@ -59,6 +59,7 @@ public class DetectAndRemoveCycle {
 
         System.out.println("no of nodes in loop : "+k);
 
+        //move P2 through the list till k = 0
         p1 = node;
         p2 = node;
         while(k!=0) {
