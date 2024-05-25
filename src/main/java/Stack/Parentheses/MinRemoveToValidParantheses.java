@@ -3,6 +3,10 @@ package Stack.Parentheses;
 import java.util.HashSet;
 import java.util.Stack;
 
+/*
+Time complexity = O(n)
+Space complexity = O(n)
+ */
 public class MinRemoveToValidParantheses {
 
     public static void main(String[] args) {

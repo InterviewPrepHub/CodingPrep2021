@@ -20,13 +20,15 @@ public class MinStackWithoutAuxStack {
             min = x;
             s.push(x);
         }
-
-            if (x > min) {
+        if (x > min) {
             s.push(x);
-        } else {
-            s.push(2*x- min);
+        } else {    //here we have encountererd a new min vale since x < min
+            s.push(2*x- min);   //here instead of directly pushing the x value we push an adjusted value
             min = x;
         }
+        //By pushing 2*x - min, we are effectively encoding the information necessary to retrieve the previous
+        // minimum value when x is popped from the stack. This way, the logic ensures that the minimum value is
+        // always updated correctly and can be retrieved without using an auxiliary stack.
 
     }
 

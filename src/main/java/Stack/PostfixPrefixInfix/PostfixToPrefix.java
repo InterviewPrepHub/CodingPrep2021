@@ -10,29 +10,20 @@ public class PostfixToPrefix {
         System.out.println("res : "+ res);
     }
 
-    private static String post_to_pre(String str) {
-        Stack<String> s = new Stack<>();
+    private static String post_to_pre(String postfix) {
+        Stack<String> stack = new Stack<>();
 
-        for (int i=0;i<str.length();i++) {
-            if (isOperator(str.charAt(i))) {    // /
-                String op1 = s.peek();  //C
-                s.pop();
-                String op2 = s.peek();  //B
-                s.pop();
-
-                String res = str.charAt(i) + op2 + op1; //  /BC
-                s.push(res);    // A, /BC
+        for (char c : postfix.toCharArray()) {
+            if (isOperator(c)) {
+                String operand2 = stack.pop();
+                String operand1 = stack.pop();
+                stack.push(c + operand1 + operand2);
             } else {
-                s.push(str.charAt(i) + ""); //A,B,C
+                stack.push(String.valueOf(c));
             }
         }
 
-        String ans = "";
-        for (String s1 : s) {
-            ans += s1;
-        }
-
-        return ans;
+        return stack.pop();
     }
 
     private static boolean isOperator(char x) {

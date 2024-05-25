@@ -26,6 +26,26 @@ package Stack.Parentheses;
  */
 public class MinAddToValidParantheses {
 
+    public int minAdd1(String str) {
+
+        int open = 0;
+        int close = 0;
+
+        for (int i = 0; i < str.length(); i++) {
+            if(str.charAt(i) == '(') {
+                open++;
+            } else if(str.charAt(i) == ')') {
+                if(open > 0) {
+                    open --;    //match found, dec open
+                } else {
+                    close++;    //unmatch closing paranthesis
+                }
+            }
+        }
+
+        return open + close;
+
+    }
     public int minAdd(String str) {
         int balance = 0;
         int total = 0;
@@ -56,5 +76,7 @@ public class MinAddToValidParantheses {
     public static void main(String[] args) {
         MinAddToValidParantheses m = new MinAddToValidParantheses();
         System.out.println(m.minAdd("())"));
+
+        System.out.println(m.minAdd1("())"));
     }
 }

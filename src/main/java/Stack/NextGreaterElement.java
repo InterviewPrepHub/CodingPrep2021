@@ -5,7 +5,6 @@ import java.util.Stack;
 public class NextGreaterElement {
 
     public static void nextGreaterElement(int[] arr) {
-//1,3,2,4
         for(int i=0;i<arr.length;i++) { //1
             for(int j=i+1;j<arr.length;j++) {//3
                 if (arr[i] < arr[j]) {
