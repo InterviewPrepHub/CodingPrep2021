@@ -2,12 +2,12 @@ package BinaryTree;
 
 public class BTNode {
 
-    int data;
-    BTNode left;
-    BTNode right;
-    BTNode parent;
+    public int data;
+    public BTNode left;
+    public BTNode right;
+    public BTNode parent;
 
-    BTNode(int data) {
+    public BTNode(int data) {
         this.data = data;
         left = null;
         right = null;
