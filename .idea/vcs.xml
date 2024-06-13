@@ -2,9 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../Graphs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../InterviewPrep2024" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../LeetCodeDesign" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../TakeYouForward" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../LeetcodeBlind75" vcs="Git" />
   </component>
 </project>

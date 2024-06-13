@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="GraphSeries" target="17" />
+      <module name="GraphSeries.main" target="17" />
+      <module name="GraphSeries.test" target="17" />
+      <module name="TakeYouForward" target="17" />
+      <module name="TakeYouForward.main" target="17" />
+      <module name="TakeYouForward.test" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

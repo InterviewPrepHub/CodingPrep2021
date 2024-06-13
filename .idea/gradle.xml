@@ -22,7 +22,6 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/../Graphs" />
-        <option name="gradleJvm" value="corretto-21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/../Graphs" />
@@ -48,11 +47,11 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/../TakeYouForward" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../LeetcodeBlind75" />
         <option name="gradleJvm" value="corretto-21" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../TakeYouForward" />
+            <option value="$PROJECT_DIR$/../LeetcodeBlind75" />
           </set>
         </option>
       </GradleProjectSettings>
