@@ -1,7 +1,5 @@
 package Queue.Easy;
 
-import com.sun.source.tree.Tree;
-
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -54,15 +52,16 @@ public class PrintRightViewOfBT {
         p.getRightView(root);
 
     }
-}
 
-class TreeNode {
-    public int data;
-    public TreeNode left, right;
+    static class TreeNode {
+        public int data;
+        public TreeNode left, right;
 
-    public TreeNode(int data) {
-        this.data = data;
-        this.left = null;
-        this.right = null;
+        public TreeNode(int data) {
+            this.data = data;
+            this.left = null;
+            this.right = null;
+        }
     }
+
 }
